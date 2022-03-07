@@ -20,8 +20,12 @@ function App() {
         </a>
       </header>
       <p>lorem</p>
+      <li>x</li>
+      <li>x</li>
+      <li>x</li>
     </div>
   );
 }
+
 
 export default App;

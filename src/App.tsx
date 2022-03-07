@@ -23,6 +23,10 @@ function App() {
       <li>x</li>
       <li>x</li>
       <li>x</li>
+      <hr/>
+      <p>3</p>
+      <p>4</p>
+
     </div>
   );
 }
